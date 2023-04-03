@@ -1,0 +1,15 @@
+C:\pc1\EtecAB\EtecAB\bin\Debug\net7.0\EtecAB.exe
+C:\pc1\EtecAB\EtecAB\bin\Debug\net7.0\EtecAB.deps.json
+C:\pc1\EtecAB\EtecAB\bin\Debug\net7.0\EtecAB.runtimeconfig.json
+C:\pc1\EtecAB\EtecAB\bin\Debug\net7.0\EtecAB.dll
+C:\pc1\EtecAB\EtecAB\bin\Debug\net7.0\EtecAB.pdb
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.csproj.AssemblyReference.cache
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.AssemblyInfoInputs.cache
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.AssemblyInfo.cs
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.csproj.CoreCompileInputs.cache
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.dll
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\refint\EtecAB.dll
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.pdb
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\EtecAB.genruntimeconfig.cache
+C:\pc1\EtecAB\EtecAB\obj\Debug\net7.0\ref\EtecAB.dll
